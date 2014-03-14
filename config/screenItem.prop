@@ -1,0 +1,45 @@
+[Label]
+fileIdentifier				= ファイル識別子
+language					= 言語
+characterSet				= 文字集合
+parentIdentifier			= 親識別子
+hierarchyLevel				= 階層レベル
+hierarchyLevelName			= 階層レベル名
+contact						= 問合せ先（責任者）
+dateStamp					= 日付
+metadataStandard			= メタデータ規格
+referenceSystemInfo			= 参照系情報
+
+# 識別情報
+notes.abstract				= 要約
+notes.purpose				= 目的
+status						= ステータス
+pointOfContact				= 問合せ先
+graphicOverview				= 概要の図示
+descriptiveKeywords			= 記述的キーワード
+resourceConstraints			= 情報資源の制約
+spatialRepresentationType	= 空間表現型
+spatialResolution			= 空間解像度
+idLanguage					= 識別情報-言語
+idCharacterSet				= 識別情報-文字集合
+topicCategory				= 主題分類
+idExtent					= 識別情報-範囲
+idExtentDescription			= 記述
+idExtentGeographicElement	= 地理要素
+idExtentTemporalElement		= 時間要素
+idExtentVerticalElement		= 垂直要素
+
+# 配布情報
+distributionInfo			= 配布情報
+
+# データ品質情報
+dataQualityInfo				= データ品質情報
+dqLevel						= 適用範囲-レベル
+dqExtent					= 適用範囲-範囲-
+dqDescription				= 記述
+dqExtentGeographicElement	= 地理要素
+dqExtentTemporalElement		= 時間要素
+dqExtentVerticalElement		= 垂直要素
+dqLevelDescription			= 適用範囲-レベル記述
+dqReport					= 報告
+dqLineage					= 系譜

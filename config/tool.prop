@@ -1,0 +1,23 @@
+[User]
+api_key		 = xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+
+[Tool]
+tool_name	 = jmp2ckan
+jmp_version	 = JMP2.0
+
+[Server]
+server_url	 = http://localhost:8080/
+api_url		 = http://localhost:8080/api
+
+[Directory]
+base_dir	 = /usr/lib/ckan/jmp2ckan
+log_dir		 = %(base_dir)s/log
+ok_dir		 = xml_ok
+
+[Resource]
+resource_tmp_dir = /tmp
+resource_tmp_file = resource.xml
+production = /etc/ckan/default/production.ini
+
+[Log]
+log_level = DEBUG
