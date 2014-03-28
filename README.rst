@@ -1,4 +1,4 @@
-jmp2ckan - JMP2.0 to CKAN transfer tool
+jmp2ckan - JMP2.0 to CKAN format conversion tool
 ============================================================================
 
 * `Installation`_
