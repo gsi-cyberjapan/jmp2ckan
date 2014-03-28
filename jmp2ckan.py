@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-# * Copyright 2014, Geospatial Information Authority of Japan, released
-# under the FreeBSD
-# * license. Please see
+# Copyright 2014, Geospatial Information Authority of Japan, released
+# under the FreeBSD license. Please see
 
 import ckanclient
 import locale
@@ -815,7 +814,7 @@ def registerPackage(root, file, doc):
 		
 		ckan.add_package_resource(package["name"], \
 									resourceName, \
-									url=toolConfig.get("Server", "server_url") + "/" + resource[0], \
+									url=toolConfig.get("Server", "server_url") + resource[0], \
 									name=resourceName, \
 									resource_type="file.upload", \
 									format="XML")

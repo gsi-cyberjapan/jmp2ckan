@@ -6,7 +6,7 @@ tool_name	 = jmp2ckan
 jmp_version	 = JMP2.0
 
 [Server]
-server_url	 = http://localhost:8080/
+server_url	 = http://localhost:8080
 api_url		 = http://localhost:8080/api
 
 [Directory]
